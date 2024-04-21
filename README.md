@@ -7,8 +7,12 @@
 ### 实践
 1. 创建一个项目
 2. 在`Actions`中创建如下的工作流，保存为`.yml`文件
+   
+   [**了解YAML语法？**](https://www.runoob.com/w3cnote/yaml-intro.html)
+   
    1. 找到`Skip this and set up a workflow yourself→`
-   2. 复制下面的`yml`代码块，修改必要的部分
+   2. 复制下面的`yaml`代码块，修改必要的部分
+      
    **注意：这里的时间为协调世界时（UTC），请先将当前时区的时间转化为 UTC +0**
    
    可以在这里查看[时间差](https://time.is/UTC)
@@ -21,6 +25,7 @@ on:
     - cron: 'mm hh * * *'
 
 # 在指定时间触发，如12:00表达为 '00 12 * * *'
+# 也可以设定多个时间，如'0 9,15 * * *'表示在每天的9点和15点触发
 
 jobs:
   visit_url:
