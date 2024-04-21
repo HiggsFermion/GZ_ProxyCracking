@@ -7,7 +7,7 @@
 ### 实践
 1. 创建一个项目
 2. 在`Actions`中创建如下的工作流，保存为`.yml`文件
-   1. 找到`Skip this and set up a workflow yourself`
+   1. 找到`Skip this and set up a workflow yourself→`
    2. 复制下面的`yml`代码块，修改必要的部分
    **注意：这里的时间为协调世界时（UTC），请先将当前时区的时间转化为 UTC +0**
    
