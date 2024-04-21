@@ -5,10 +5,11 @@
 通过`GitHub Action`自动访问代理上网的通过页面
 
 ### 实践
+
+[**了解YAML语法**](https://www.runoob.com/w3cnote/yaml-intro.html)
+
 1. 创建一个项目
 2. 在`Actions`中创建如下的工作流，保存为`.yml`文件
-   
-   [**了解YAML语法？**](https://www.runoob.com/w3cnote/yaml-intro.html)
    
    1. 找到`Skip this and set up a workflow yourself→`
    2. 复制下面的`yaml`代码块，修改必要的部分
