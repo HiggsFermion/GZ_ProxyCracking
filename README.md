@@ -33,4 +33,4 @@ jobs:
 #“clientip=”后添加教室ip地址，通常是10.167.82.**
 
 ```
-   3. 点击`Commit changes...`保存文件，一个`.yml`文件应该会在
+   3. 点击`Commit changes...`保存文件，一个`.yml`文件应该会在`.github/workflows`下生成
