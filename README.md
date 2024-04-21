@@ -1,4 +1,4 @@
-# GZ-ProxyCracking
+# GZ_ProxyCracking
 ## 东莞中学代理上网的一种解决方案
 
 ### 原理
