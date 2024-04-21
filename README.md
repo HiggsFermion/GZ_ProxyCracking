@@ -14,7 +14,7 @@
    可以在这里查看[时间差](https://time.is/UTC)
    
 ``` yml
-name: Proxy
+name: Proxy_Action
 
 on:
   schedule:
